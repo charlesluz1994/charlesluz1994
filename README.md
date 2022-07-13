@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlesluz1994
 - 👀 I’m interested in Technology, sports and history
-- 🌱 I’m currently learning Spring, RESTFull webservices, Cloud and Kafka.
+- 🌱 I’m currently learning Kubernetes, Microservices, Cloud and Message Queue.
 - 📫 How to reach me https://www.linkedin.com/in/charles-luz/ or charlesluz.pt@gmail.com
 - 
 
